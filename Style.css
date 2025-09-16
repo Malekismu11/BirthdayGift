@@ -1,0 +1,8 @@
+body {
+background: linear-gradient(to bottom, rgb(252, 211, 218), pink, rgb(249, 178, 190));
+height: 100dvh;
+height: 100vh;
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
